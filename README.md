@@ -1,4 +1,5 @@
 # Thrashify-beta
+Testline, edit from github.com by Kristof
 all the progress from the baby steps to working prototype!
 
 
